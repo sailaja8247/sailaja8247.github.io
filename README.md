@@ -37,6 +37,8 @@ document.getElementById("speed").innerHTML ="Speed:"+result;
         </style>
     </head>
     <body>
+	    <div><h4>Click here to go <a href='./travel.html'>travel</a><h4></div>
+
     <div class="container">
         <div class="row">
               <h1>SpeedCalculator</h1>
@@ -72,7 +74,6 @@ document.getElementById("speed").innerHTML ="Speed:"+result;
          
                <button class ="btn btn-info" onclick="Calculator()">calculateSpeed  </button>
               <button class="btn-danger"> clear </button>
-                 <a href='./travel.html'>travel</a>
                </div>
 		      
 		      
