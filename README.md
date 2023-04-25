@@ -72,10 +72,10 @@ document.getElementById("speed").innerHTML ="Speed:"+result;
          
                <button class ="btn btn-info" onclick="Calculator()">calculateSpeed  </button>
               <button class="btn-danger"> clear </button>
-                 
+                 <a href='./travel.html'>travel</a>
                </div>
 		      
-		      <a href='./travel.html'>travel</a>
+		      
 			</div>
              
     </body>
