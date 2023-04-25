@@ -74,6 +74,8 @@ document.getElementById("speed").innerHTML ="Speed:"+result;
               <button class="btn-danger"> clear </button>
                  
                </div>
+		      
+		      <a href='./travel.html'>travel</a>
 			</div>
              
     </body>
